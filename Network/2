@@ -1,0 +1,1 @@
+ifconfig enp1s0 | grep "broadcast"
